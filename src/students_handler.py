@@ -96,4 +96,3 @@ def search_qualifications():
        print(f"Student name: {student["student_name"]}")
   print("Above students have same qualification!")     
        
-search_qualifications()
