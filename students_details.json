@@ -1,0 +1,40 @@
+[
+    {
+        "student_id": "1001",
+        "student_name": "Mukul",
+        "student_address": "Gurgaon",
+        "qualifications": [
+            {
+                "qualification": "10th",
+                "passing year": "2022"
+            },
+            {
+                "qualification": "12th",
+                "passing year": "2024"
+            },
+            {
+                "qualification": "BCA ",
+                "passing year": "2027"
+            },
+            {
+                "qualification": "updating ",
+                "Passing year": "00"
+            }
+        ]
+    },
+    {
+        "student_id": "1002",
+        "student_name": "Rahul",
+        "student_address": "New Delhi",
+        "qualifications": [
+            {
+                "qualification": "10th",
+                "passing year": "2020"
+            },
+            {
+                "qualification": "12th",
+                "passing year": "2022"
+            }
+        ]
+    }
+]
